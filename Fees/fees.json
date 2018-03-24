@@ -1,0 +1,95 @@
+{
+  "BTC" : {
+    "common":{
+      "flat_fee": 0.0005,
+      "Approx time": 10000
+    }, 
+    "bitbns":{
+      "flat_fee": 0.0005,
+      "Approx time": 10000
+    }
+  },
+  "ETH" : {
+    "common":{
+      "flat_fee": 0.003,
+      "Approx time": 10000
+    }, 
+    "bitbns":{
+      "flat_fee": 0.003,
+      "Approx time": 10000
+    }
+  },
+  "LTC" : {"common":{
+      "flat_fee": 0.01,
+      "Approx time": 10000
+    }, 
+    "bitbns":{
+      "flat_fee": 0.01,
+      "Approx time": 10000
+    }
+  },
+  "XRP": {"common":{
+      "flat_fee": 0.02,
+      "Approx time": 10000
+    }, 
+    "bitbns":{
+      "flat_fee": 0.02,
+      "Approx time": 10000
+    }
+  },
+  "EOS":{"common":{
+      "flat_fee": 0.01,
+      "Approx time": 10000
+    }, 
+    "bitbns":{
+      "flat_fee": 0.01,
+      "Approx time": 10000
+    }
+  },
+  "XRB":{"common":{
+      "flat_fee": 0.05,
+      "Approx time": 10000
+    }, 
+    "bitbns":{
+      "flat_fee": 0.05,
+      "Approx time": 10000
+    }
+  },
+  "GAS":{"common":{
+      "flat_fee": 0,
+      "Approx time": 10000
+    }, 
+    "bitbns":{
+      "flat_fee": 0,
+      "Approx time": 10000
+    }
+  },
+  "NEO":{"common":{
+      "flat_fee": 0,
+      "Approx time": 10000
+    }, 
+    "bitbns":{
+      "flat_fee": 0,
+      "Approx time": 10000
+    }
+  },
+  "OMG":{"common":{
+      "flat_fee": 0.1,
+      "Approx time": 10000
+    }, 
+    "bitbns":{
+      "flat_fee": 0.1,
+      "Approx time": 10000
+    }
+  },
+  "XLM":{"common":{
+      "flat_fee": 0.02,
+      "Approx time": 10000
+    }, 
+    "bitbns":{
+      "flat_fee": 0.02,
+      "Approx time": 10000
+    }
+  }
+  
+}
