@@ -1,0 +1,74 @@
+{
+  "koinex" : {
+    "isMakerFeeModel": false,
+    "maker_fee": 0,
+    "taker_fee": 0,
+    "buyer_fee": 0.25,
+    "seller_fee": 0.2,
+    "maker_fee_alts": 0,
+    "taker_fee_alts":0
+  },
+  "bitbns" : {
+    "isMakerFeeModel": false,
+    "maker_fee": 0,
+    "taker_fee": 0,
+    "buyer_fee": 0.25,
+    "seller_fee": 0.25,
+    "maker_fee_alts": 0,
+    "taker_fee_alts":0
+  },
+  "coindelta" : {
+    "isMakerFeeModel": true,
+    "maker_fee": 0,
+    "taker_fee": 0.3,
+    "buyer_fee": 0,
+    "seller_fee": 0,
+    "maker_fee_alts": 0,
+    "taker_fee_alts":0.3
+  },
+  "buyucoin" : {
+    "isMakerFeeModel": true,
+    "maker_fee": 0.42,
+    "taker_fee": 0.84,
+    "buyer_fee": 0,
+    "seller_fee": 0,
+    "maker_fee_alts": 0.42,
+    "taker_fee_alts":0.84
+  },
+  "coinome" : {
+    "isMakerFeeModel": true,
+    "maker_fee": 0.1,
+    "taker_fee": 0.3,
+    "buyer_fee": 0,
+    "seller_fee": 0,
+    "maker_fee_alts": 0.1,
+    "taker_fee_alts":0.3
+  },
+  "pocketbits" : {
+    "isMakerFeeModel": false,
+    "maker_fee": 0,
+    "taker_fee": 0,
+    "buyer_fee": 0,
+    "seller_fee": 0,
+    "maker_fee_alts": 0,
+    "taker_fee_alts":0
+  },
+  "zebpay" : {
+    "isMakerFeeModel": true,
+    "maker_fee": 0.5,
+    "taker_fee": 1,
+    "buyer_fee": 0,
+    "seller_fee": 0,
+    "maker_fee_alts": 0.3,
+    "taker_fee_alts":0.4
+  },
+  "unocoin" : {
+    "isMakerFeeModel": false,
+    "maker_fee": 0,
+    "taker_fee": 0,
+    "buyer_fee": 0.7,
+    "seller_fee": 0.7,
+    "maker_fee_alts": 0,
+    "taker_fee_alts":0
+  }
+}
